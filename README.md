@@ -30,3 +30,5 @@ Los procesos de negocio son comúnmente encontrados en las organizaciones y de m
 
 Fondo Europeo de Desarrollo Regional
 Una manera de hacer Europa
+
+![CARTEL_PROYECTO_BALAMO](https://user-images.githubusercontent.com/106706777/171502458-cc10fcc8-f496-4a09-87ea-7b32b0adc1cd.png)

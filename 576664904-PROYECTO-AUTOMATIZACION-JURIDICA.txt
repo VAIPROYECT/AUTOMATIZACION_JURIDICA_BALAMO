@@ -1,0 +1,163 @@
+PROYECTO AUTOMATIZACIÓN JURÍDICA
+Nº EXP: IDA4-18-0008-3
+
+PRESUPUESTO: 60.000,00 euros
+
+ENTIDAD: BALAMO LEGAL Y FISCAL. S.L.P.
+
+El ejercicio de la abogacía se ha caracterizado por su
+resistencia a los cambios. Este panorama ha cambiado
+radicalmente en los últimos años con la irrupción de la
+innovación tecnológica en el sector. La tecnología es
+ahora una oportunidad de adaptarse a un cambio ya
+imparable de la forma en la que se entiende y se ejerce
+la profesión. Y Bálamo Legal&Fiscal lleva en su ADN la
+apuesta por la innovación tecnológica.
+
+En esta línea desde Marzo de 2019, desde Bálamo
+Legal&Fiscal trabajamos en un proyecto de innovación
+tecnológica para el sector legal, basado en la creación de
+herramientas que automatizan o aceleran las tareas de
+los abogados, reduciendo el tiempo empleado en los
+procesos.
+
+Con ello conseguimos mucha más eficiencia y competitividad; menos costes, mayor velocidad y
+un resultado de alta calidad, aportando valor añadido al servicio tradicional. En definitiva,
+mejorando los resultados y la experiencia de nuestros clientes.
+
+Con la colaboración de la Junta de Extremadura, a través de los Fondos Feder, que ha
+subvencionado este proyecto en un 80%, se está desarrollando una herramienta tecnológica
+que automatiza la confección de un protocolo anticorrupción para el Sector Público en materia
+de Contratación.
+
+Esta herramienta lleva consigo una mejora sustancial en materia de transparencia y buenas
+prácticas en la contratación pública, que beneficia a los Operadores Públicos y a la ciudadanía.
+
+Bálamo Legal&Fiscal seguirá apostando por la innovación, poniendo siempre en el centro la
+mejora de la calidad del servicio prestado a nuestros clientes.
+
+LOGROS ALCANZADOS. CONCLUSIONES
+
+En los últimos años, la necesidad de alinear la estrategia con la operación del negocio y el
+desarrollo de la tecnología de información ha generado nuevas formas de gestionar los procesos
+en las organizaciones. El uso de herramientas BPM aumenta la eficiencia del negocio y genera
+las ventajas competitivas que exige el mercado.
+
+En épocas pasadas, las actividades de la empresa no se percibieron como conjuntos de acciones
+relacionadas por principios de causalidad, en los que el resultado final era la consecuencia de la
+articulación de un conjunto de actividades. Estos procesos fueron vistos como prácticas dentro
+de áreas funcionales que no despertaron mayor interés por ser automatizados.
+
+
+                                                                                                1
+Fondo Europeo de Desarrollo Regional
+Una manera de hacer Europa
+Los procesos constituyen el foco y la unidad primaria de iniciativas de automatización e
+integración de información, necesarios para responder ágilmente a los cambios exigidos por la
+dinámica del mercado. La gestión de procesos de negocio en estas condiciones ha dado origen
+a una nueva etapa en la gestión de procesos denominada Business Process Management (BPM).
+
+BPM puede definirse como una metodología empresarial cuyo objetivo es mejorar la eficiencia
+a través de la gestión sistemática de los procesos de negocio, que se deben modelar,
+automatizar, integrar, monitorizar y optimizar de forma continua. BPM constituye una de las
+tendencias en gestión, que permite de manera deliberada y colaborativa manejar
+sistemáticamente todos los procesos de negocio de una empresa.
+
+Los procesos de negocio son comúnmente encontrados en las organizaciones y de manera
+transversal en las mismas. Existen muchos tipos de procesos de negocio. Fundamentalmente,
+los procesos de negocio son privados o públicos. Los procesos de negocio privados son aquellos
+internos a la empresa y pueden estar a nivel estratégico, gerencial, u operacional. Los procesos
+de negocio públicos involucran a las organizaciones externas, por ejemplo, envío de bienes,
+solicitud de materiales, etc.
+
+Desde un punto de vista del más alto nivel, existen dos perspectivas principales de los procesos
+de negocio: la perspectiva de nivel y la perspectiva de las competencias principales.
+
+La perspectiva de nivel clasifica los procesos de negocio en niveles similares a los de los gráficos
+de organización tradicionales. En esta perspectiva se definen tres niveles de actividades: control
+operacional, control gerencial, y el planeamiento estratégico.
+
+La perspectiva de las competencias principales se enfoca en el punto de quiebre de las
+responsabilidades. Esta perspectiva agrupa los procesos de negocio por su función, o más
+específicamente por sus competencias principales. Hay 3 grupos principales: Procesos del
+Núcleo del Negocio, Procesos de la Gestión del Negocio, y Procesos de Soporte al Negocio.
+
+BPM se soporta sobre tecnología de información para automatizar tareas y dar agilidad a los
+cambios requeridos por la empresa. La tecnología que posibilita la implantación y adopción de
+BPM constituye una categoría nueva de sistemas informáticos denominada Business Process
+Management System (BPMS). A diferencia de los sistemas de información tradicionales basados
+en la gestión de datos, estos sistemas se especializan en la gestión de procesos de negocio. Un
+BPMS puede ser definido como un conjunto de utilidades de software para definir, implementar
+y mejorar procesos de negocio que cumplen con un grupo de características técnicas necesarias
+para aplicar el concepto de BPM.
+
+Adoptar el Business Process Management tiene beneficios para la empresa. Es una característica
+natural en las personas entender un objeto o fenómeno a través de modelos. De esta manera,
+uno puede identificar visualmente los problemas, y los modelos pueden señalar mejoras
+previamente no visibles, mejoras necesarias para optimizar una situación. Esta lógica se aplica
+también a los procesos de negocio. El modelamiento de procesos en un negocio, o incluso a
+través de los negocios, puede traer inmediata identificación del problema y es una herramienta
+importante para la simulación de las eficiencias de ciertos procesos. Algunos de los beneficios
+de analizar y modelar los procesos de negocio son los siguientes:
+
+    1. Aumenta la visibilidad y el conocimiento de las actividades de la compañía.
+    2. Aumenta la habilidad para identificar cuellos de botella.
+    3. Aumenta la identificación de potenciales áreas de optimización.
+
+                                                                                                  2
+Fondo Europeo de Desarrollo Regional
+Una manera de hacer Europa
+    4. Reduce tiempos de espera.
+    5. Mejora la definición de roles y funciones en la compañía.
+    6. Es una buena herramienta para la prevención de fraudes, auditoría, y para cumplir con
+       regulaciones.
+
+Lograr estos beneficios es resultado de la aplicación metódica de prácticas de gestión, de la
+implantación y adopción de formas de operar automatizadas y estratégicamente seleccionadas.
+Existe un Ciclo de Vida del Business Process Management. Este ciclo (genérico) consiste en:
+
+    1. Diseño del Proceso. En esta fase, los procesos “as is” que están en papel, son modelados
+       electrónicamente en un sistema BPM (BPMS).
+    2. Configuración del Sistema. En esta fase se configura el BPMS y la infraestructura de
+       sistema en la que se apoya.
+    3. Ejecución del Proceso. Los procesos de negocio electrónicamente modelados son
+       desplegados en el BPMS.
+    4. Diagnóstico. Con herramientas de análisis y monitoreo apropiadas, el analista de BPM
+       puede identificar y mejorar cuellos de botella y potenciales vacíos causantes de fraudes,
+       en los procesos de negocio.
+
+Podemos concluir que el BPM es el entendimiento, gestión e innovación de procesos, alineados
+con la estrategia de negocio para asegurar la efectividad del proceso y crear valor a la cadena
+productiva de la empresa. Se lleva a la práctica integrando la estrategia los procesos y la
+tecnología, la cual emplea estándares de modelamiento para permitir una comunicación fluida
+y con menor esfuerzo entre procesos de negocio y las compañías del sector.
+
+El software ProcessMaker, modelador y gestor de procesos de negocio, de entre las varias
+opciones BPM en el mercado, es la herramienta libre que cumple y se ajusta perfectamente a
+los requerimientos de cualquier institución.
+
+ProcessMaker cuenta con una buena documentación y posee un foro, en el cual se resuelven
+gran parte de las dudas que se puedan generar en el desarrollo de un proyecto, esto permite un
+eficaz aprendizaje del uso de la herramienta y de sus limitaciones, entre ellas, el no contar con
+soporte para BPMN genera que de deba realizar un doble trabajo en el modelado, ya que se
+deben convertir los elementos de BPMN a elementos usados por ProcessMaker, lo que requiere
+adaptar el flujo de trabajo para hacerlo compatible con este BPMS.
+
+DIFUSIÓN DE LOS RESULTADO DEL PROYECTO:
+Con fines demostrativos de las posibilidades del sistema BPM se han seleccionado dos procesos
+de la fase de análisis (F01 Solicitud de servicio y F02. Contratación del servicio) y se han
+introducido en ProcessMaker siguiendo el estándar BPM, que para su amplia difusión se han
+incluido en los siguientes enlaces para su libre descarga y utilización:
+
+ARCHIVO DIAGRAMA DE PROCESOS BPM:
+
+    •    F01 Solicitud de servicio y F02. Contratación del servicio
+
+IMÁGENES DIAGRAMA DE PROCESOS BPM PARA SU VISUALIZACIÓN:
+
+    •    PROCESS MARKER CON ESTANDAR BPM 1
+    •    PROCESS MARKER CON ESTANDAR BPM 2
+                                                                                               3
+Fondo Europeo de Desarrollo Regional
+Una manera de hacer Europa
+
